@@ -9,5 +9,5 @@
     <a href="https://github.com/sachinrace/BlackJack"><li>BlackJack</li></a>
 </ul>
 <ul>
-    <a href="https://github.com/sachinrace/BlackJack"><li>Enrollment Projections</li></a>
+    <a href="https://github.com/sachinrace/Enrollment-Projection"><li>Enrollment Projection</li></a>
 </ul>
